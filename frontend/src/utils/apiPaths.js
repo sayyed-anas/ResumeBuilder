@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:5000";
+export const BASE_URL = "https://resumebuilder-backend-1dt3.onrender.com";
 
 // ROUTES USED FOR FRONTEND
 export const API_PATHS = {
